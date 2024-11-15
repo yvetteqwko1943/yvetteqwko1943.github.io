@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://yvetteqwko1943.github.io/yvetteqwko1943_github_io_zp533_10.txt
+Sitemap: https://yvetteqwko1943.github.io/yvetteqwko1943_github_io_zp533_15.txt
+Sitemap: https://yvetteqwko1943.github.io/yvetteqwko1943_github_io_zp533_2.txt
+Sitemap: https://yvetteqwko1943.github.io/yvetteqwko1943_github_io_zp533_24.txt
+Sitemap: https://yvetteqwko1943.github.io/yvetteqwko1943_github_io_zp533_29.txt
+Sitemap: https://yvetteqwko1943.github.io/yvetteqwko1943_github_io_zp533_7.txt
